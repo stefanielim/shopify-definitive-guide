@@ -8,6 +8,12 @@ assets/jquery-3.1.1.min.js:
 assets/styles.css.liquid:
   development: 2018-08-16T22:04:49-04:00   e425dbea5db83d82f196861700c9be4f
 layout/theme.liquid:
-  development: 2018-08-16T21:51:47-04:00   1f6fb825bc605c6c3ed8fd87e525a2fe
+  development: 2018-08-16T23:20:11-04:00   abe557f1e4a109f61a40403bda4c8355
+sections/footer.liquid:
+  development: 2018-08-16T23:19:27-04:00   d9a3e1dddce1a4677993ff8e33fec411
 sections/header.liquid:
   development: 2018-08-16T22:43:12-04:00   5cc782369d4f0656373c270788dea66d
+snippets/footer-block-link-list.liquid:
+  development: 2018-08-16T23:23:06-04:00   a6eeb3c81e51c43335545fd72eab388c
+snippets/footer-block-payment-icons.liquid:
+  development: 2018-08-16T23:23:35-04:00   1176efae4d2fb5aabbac08438ef58e33

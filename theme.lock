@@ -10,9 +10,9 @@ assets/styles.css.liquid:
 layout/theme.liquid:
   development: 2018-08-16T23:20:11-04:00   abe557f1e4a109f61a40403bda4c8355
 sections/footer.liquid:
-  development: 2018-08-16T23:19:27-04:00   d9a3e1dddce1a4677993ff8e33fec411
+  development: 2018-08-16T23:29:46-04:00   83438534ca4db745b16a89c555261808
 sections/header.liquid:
-  development: 2018-08-16T22:43:12-04:00   5cc782369d4f0656373c270788dea66d
+  development: 2018-08-16T23:29:34-04:00   e4938dc17a26b4825682aa1a3a8970ba
 snippets/footer-block-link-list.liquid:
   development: 2018-08-16T23:23:06-04:00   a6eeb3c81e51c43335545fd72eab388c
 snippets/footer-block-payment-icons.liquid:

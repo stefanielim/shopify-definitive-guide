@@ -20,14 +20,17 @@
   ]
 }
 {% endschema %}
-
-<footer>
-  {%- for block in section.blocks -%}
-    {%- case block.type -%}
-      {%- when 'link_list' -%}
-        {%- include 'footer-block-link-list' -%}
-      {%- when 'payment_icons' -%}
-        {%- include 'footer-block-payment-icons' -%}
-    {%- endcase -%}
-  {%- endfor -%}
+<footer class="bg-faded py-5">
+  <div class="container">
+    <div class="row">
+      {%- for block in section.blocks -%}
+        {%- case block.type -%}
+          {%- when 'link_list' -%}
+            {%- include 'footer-block-link-list' -%}
+          {%- when 'payment_icons' -%}
+            {%- include 'footer-block-payment-icons' -%}
+        {%- endcase -%}
+      {%- endfor -%}
+    </div>
+  </div>
 </footer>
